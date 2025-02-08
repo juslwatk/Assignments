@@ -3,7 +3,7 @@
  * @brief Implementation of the Vector class methods.
  */
 
-#include "vector.h"
+#include "Vector.h"
 #include <iostream> // For debugging/printing if needed
 #include <cstdlib>  // for exit, if you want to handle out-of-memory, etc.
 

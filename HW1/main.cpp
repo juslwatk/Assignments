@@ -4,7 +4,7 @@
  */
 
 #include <iostream>
-#include "Vector.h"
+#include "vector.h"
 
 int main() {
     // 1) Test default constructor
